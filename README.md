@@ -1,6 +1,16 @@
 # NOT PIXEL BOT
 
-- git clone 
+- git clone https://github.com/akilower/notpix.git
+- cd notpix
+- npm install
+- cd app
+- cd account
+- cd query-cibenda
+- nano query
+
+  # untuk run bot
+  - cd app
+  - node index.js
 
 ## BOT FEATURE
 
